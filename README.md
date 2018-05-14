@@ -37,3 +37,4 @@ This script was created to easily help you keep track of the hardware stack-ups 
 Example of an install/remove job with multiple parts and stack-up occurances.  Parts List on the right side of image:
 ![alt-text](image/Seawolf.jpg)
 
+Feedback welcomed! :)
